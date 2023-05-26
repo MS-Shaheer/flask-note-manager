@@ -15,5 +15,5 @@ SQLite3
 # Start Application
 python main.py
 
-Open your web browser and visit http://localhost:5000
+Open your web browser and visit http://127.0.0.1:5000
 Then register or sign in to use flask note manager by creating or deleting your notes.
